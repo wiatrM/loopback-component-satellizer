@@ -1,0 +1,41 @@
+{
+  "name": "loopback-component-satellizer",
+  "description": "LoopBack satellizer integration to support satellizer quick account integration with third-party API.",
+  "keywords": [
+    "StrongLoop",
+    "LoopBack",
+    "social",
+    "login",
+    "security",
+    "satellizer"
+  ],
+  "homepage": "https://github.com/wiatrM/loopback-component-satellizer",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "maintainers": [
+    {
+      "name": "Michal Wiatr",
+      "email": "mwiatr.dev@gmail.com"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/wiatrM/loopback-component-satellizer/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git:///github.com/wiatrM/loopback-component-satellizer.git"
+  },
+  "dependencies": {
+    "jwt-simple": "^0.5.0",
+    "loopback": "^3.0.0-alpha.3",
+    "loopback-datasource-juggler": "^2.48.0",
+    "request": "^2.74.0",
+    "strong-globalize": "^2.6.6"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "main": "./lib/index.js",
+  "license": "MIT"
+}
