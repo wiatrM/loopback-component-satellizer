@@ -1,2 +1,2 @@
-# loopback-component-satellizer
+# loopback-satellize-integration
 Loopback satellizer connector
