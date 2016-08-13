@@ -38,3 +38,5 @@ jspm_packages
 
 # Editors
 .c9
+/loopback-satellizer-integration.iml
+/.idea/
